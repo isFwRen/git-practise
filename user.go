@@ -3,4 +3,5 @@ type User struct {
 	int age
 	int phone
 	int email
+	int address
 }
