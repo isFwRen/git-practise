@@ -1,5 +1,4 @@
 module go-practise
 
-go 1.22.3
+go 1.21.4
 
-require github.com/zeromicro/go-zero v1.6.6
